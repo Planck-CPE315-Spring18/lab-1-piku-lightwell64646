@@ -12,7 +12,7 @@ Incomplete
 gcc -o piku piku.s
 
 **Issues**
-*Copying from windows putty vim replaces line wraps with blank space
+* Copying from windows putty vim replaces line wraps with blank space
 
 
 
