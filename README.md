@@ -12,16 +12,16 @@ Incomplete
 gcc -o piku piku.s
 
 **Issues**
-Copying from windows putty vim replaces line wraps with blank space
+*Copying from windows putty vim replaces line wraps with blank space
 
-* Your name. Indicate if you go by a nickname.
-* Status of your lab
-  * Complete, partially complete, incomplete
-  * If not complete, what does work? What doesn't?
-* Compilation and execution instructions
-  * `gcc -o piku piku.s` or `make`
-  * `./piku`
-* Issues that you encountered along the way, and anything you have questions about.
+
+
+
+
+
+
+
+
 
 These README files have a fairly rich _Markdown_ environment. You should use
 markdown syntax to format your README files in such a way that they look
